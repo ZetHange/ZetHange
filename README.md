@@ -3,7 +3,6 @@
    <div id="badges">
       <a href="https://youtube.com/@zethange"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
       <a href="https://t.me/zethange"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge" /></a>
-      <a href="https://vk.com/zethange"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge" /></a>
    </div>
    <div>
       <h4>:hammer_and_wrench: Languages and Tools:</h4>
