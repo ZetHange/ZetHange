@@ -14,6 +14,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    </div>
       <h4>:fire: My Stats:</h4>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=ZetHange&theme=dark&background=000000" height="200px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ZetHange&theme=dark&background=000000" height="200px" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zethange&theme=vision-friendly-dark" height="200px" />
 </div>
